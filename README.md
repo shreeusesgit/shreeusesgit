@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shreeusesgit
+- 👋 Hi, I’m Shriraj Ghadigaonkar
 - 👀 I’m interested in Tech
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on github
