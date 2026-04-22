@@ -37,11 +37,12 @@
 - Open Source Contributions
 
 ---
-
 📫 Connect With Me
 
 - GitHub: https://github.com/shreeusesgit
 - LinkedIn:www.linkedin.com/in/shriraj-ghadigaonkar-11835b319
+
+---
 🔥 Quote
 
 «"Discipline builds what motivation starts."»
