@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shriraj Ghadigaonkar</h1>
-<h3 align="center">Data Scientist and AI Student</h3>---
-
+<h3 align="center">Data Scientist and AI Student</h3>
+---
 🚀 About Me
 
 - 🎓 Master's student in Data Science & AI
