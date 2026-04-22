@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shriraj Ghadigaonkar</h1>
 <h3 align="center">Data Scientist and AI Student</h3>
----
-🚀 About Me
 
+---
+
+🚀 About Me
 - 🎓 Master's student in Data Science & AI
 - 📊 Passionate about Data Analysis, Machine Learning, and Problem Solving
 - 🧠 Currently building strong foundations in Python, Statistics, and ML
